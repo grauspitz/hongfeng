@@ -1,0 +1,8 @@
+{
+    "version": 21,
+    "files": [
+
+        "main.html"
+    ],
+    "start": "main.html"
+}
